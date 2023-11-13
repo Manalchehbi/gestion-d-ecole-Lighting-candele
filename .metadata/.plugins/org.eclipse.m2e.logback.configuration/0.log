@@ -1,0 +1,13 @@
+2023-01-18 21:21:49,093 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-18 21:22:51,034 [Worker-11: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.jfree:jfreechart:1.0.19 @ C:\Users\manal\Desktop\Cycle d'inginieurs GI\2 eme annee\S1\Java\projet centre lighting candele\lightingcandele\lib\jfreechart-1.0.19\pom.xml.
+2023-01-18 21:23:43,498 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-18 21:23:43,534 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2023-01-18 21:23:43,753 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-18 21:23:43,754 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\manal\Desktop\Cycle d'inginieurs GI\2 eme annee\S1\Java\projet centre lighting candele\lightingcandele\lib\jfreechart-1.0.19\src\test\resources
+2023-01-18 21:30:17,232 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-18 21:34:42,501 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.jfree:jfreechart:1.0.19 @ C:\Users\manal\Desktop\Cycle d'inginieurs GI\2 eme annee\S1\Java\projet centre lighting candele\lightingcandele\lib\jfreechart-1.0.19\pom.xml.
+2023-01-18 21:34:44,499 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-18 21:34:44,517 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2023-01-18 21:34:44,538 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-18 21:34:44,539 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\manal\Desktop\Cycle d'inginieurs GI\2 eme annee\S1\Java\projet centre lighting candele\lightingcandele\lib\jfreechart-1.0.19\src\test\resources
+2023-01-18 21:34:48,577 [Worker-16: Updating Maven Dependencies] INFO  o.e.m.c.i.p.r.ProjectRegistryRefreshJob - org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob was canceled
